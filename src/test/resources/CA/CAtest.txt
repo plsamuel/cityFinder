@@ -1,0 +1,10 @@
+3424953	Virgin Rocks	Virgin Rocks		46.42886	-50.81995	U	RFU	CA		05				0		-9999		2018-02-20
+3425041	Eastern Shoals	Eastern Shoals		46.44743	-50.48577	U	SHSU	CA		05				0		-9999		2018-02-20
+3426061	Downing Basin	Downing Basin		47.05216	-50.79163	U	TRGU	CA		05				0		-9999		2018-02-20
+3831549	Kane Basin	Kane Basin	Bassin Kane,Kane Basin	79.3886	-70.42541	H	STRT	CA	GL	14				0		-9999		2018-06-04
+3831631	Georges Shoal	Georges Shoal	Georges Bank,St. George's Bank,St. George's Shoal	41.65444	-67.73242	U	SHLU	CA	US					0		-9999		2018-02-20
+4030308	Swiftsure Bank	Swiftsure Bank		48.55321	-125.02235	U	BNKU	CA		00				0		-9999	America/Vancouver	2013-09-13
+4977402	Saint John River	Saint John River	Fleuve Saint-Jean,La Riviere Saint Jean,Long River,Loshtock,Ouy goody,Oxgoudy,Riviere Saint-Jean,Rivière Saint-Jean,Saint Jhons River,Saint John's River,Wallastook,Woolastook	45.26664	-66.06525	H	STM	CA		04				0	0	0	America/Moncton	2014-09-24
+5130529	Parish Dock	Parish Dock	Parish Dock,Parish's Dock	44.74951	-75.44967	S		CA		08				0	73	72	America/Toronto	2018-07-17
+5881639	100 Mile House	100 Mile House		51.64982	-121.28594	P	PPL	CA		02				0		928	America/Vancouver	2018-08-24
+5881640	101 Mile Lake	101 Mile Lake		51.6675	-121.29361	H	LK	CA		02				0		959	America/Vancouver	2013-07-21
