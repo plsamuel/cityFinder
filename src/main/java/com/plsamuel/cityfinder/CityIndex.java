@@ -30,8 +30,8 @@ public class CityIndex {
             IndexWriter writer = getIndexWriter(indexDir);
             writer.deleteAll();
 
-            System.out.println("Indexing");
             for (String resourceName: resourceList) {
+                System.out.println("Indexing "+resourceName);
                 indexFile(writer, Thread.currentThread().getContextClassLoader().getResourceAsStream(resourceName));
             }
 
@@ -50,7 +50,7 @@ public class CityIndex {
         IndexWriterConfig iwc = new IndexWriterConfig(new StandardAnalyzer());
 
         iwc.setOpenMode(IndexWriterConfig.OpenMode.CREATE_OR_APPEND);
-        iwc.setRAMBufferSizeMB(256.0);
+        iwc.setRAMBufferSizeMB(128.0);
 
         return new IndexWriter(dir, iwc);
     }
